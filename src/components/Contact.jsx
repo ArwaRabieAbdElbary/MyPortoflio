@@ -125,7 +125,7 @@ const Contact = () => {
                       className="font-medium text-[hsl(var(--fg))]
                                   group-hover:text-[hsl(var(--primary))] transition-colors"
                     >
-                      +20 01104172793
+                      +20 1104172793
                     </p>
                   </div>
                 </a>
