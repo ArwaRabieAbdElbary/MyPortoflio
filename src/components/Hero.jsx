@@ -55,7 +55,7 @@ const Hero = () => {
           </a>
 
           <a
-            href="/ArwaRabieCV(Frontend Developer).pdf"
+            href="/ArwaRabie(Frontend Developer).pdf"
             download
             className="ui-btn px-8 py-4 text-lg border hover:bg-[hsl(var(--primary))] hover:text-black hover:border-[hsl(var(--primary))] transition-all flex items-center gap-2"
           >
